@@ -100,3 +100,5 @@ fi
 
 PROJECT_PARENT_DIRS[0]=""
 source ~/.nix_settings/bash/rc
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
