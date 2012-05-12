@@ -1,1 +1,11 @@
-WorkInProgress
+### WorkInProgress
+
+These are the settings based on Iain's Mac OSX settings, which you can find here:
+https://github.com/iain/osx_settings
+
+To install type:
+    git clone git@github.com:koos303/nix_settings.git ~/.nix_settings
+    cd ~/.nix_settings
+    ./install
+
+Pull requests, questions and fan mail is highly appreciated
