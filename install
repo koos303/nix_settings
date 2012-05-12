@@ -9,7 +9,7 @@ backup=".nix_settings-backup-`date +%s`"
 echo "Any files that already existed are backed up in: $HOME/$backup"
 
 # Install submodules
-#./update-submodules
+./update-submodules
 
 # Backup the stuff and create symlinks
 pattern='^\.[a-z]{2,}'
